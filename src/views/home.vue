@@ -9,7 +9,7 @@
           <span class="home-text02 lead">
             <span>
               Find the story of Creative Tim&apos;s most complex design
-              <span v-html="raw3gmi"></span>
+              <span v-html="rawxm19"></span>
             </span>
             <span>system and all the work that make this design available.</span>
           </span>
@@ -394,7 +394,7 @@ export default {
 
   data() {
     return {
-      raw3gmi: ' ',
+      rawxm19: ' ',
     }
   },
 

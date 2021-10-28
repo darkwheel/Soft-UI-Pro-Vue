@@ -116,7 +116,7 @@
             <h3 class="headingTwo">
               <span>
                 Contact
-                <span v-html="rawnfxs"></span>
+                <span v-html="rawiudv"></span>
               </span>
               <span>Information</span>
             </h3>
@@ -212,7 +212,7 @@ export default {
 
   data() {
     return {
-      rawnfxs: ' ',
+      rawiudv: ' ',
     }
   },
 

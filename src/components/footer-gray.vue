@@ -70,7 +70,7 @@
       <span class="footer-gray-text20 small">
         <span>
           All rights reserved. Copyright Â© 2021 Soft UI Design System by
-          <span v-html="rawgeyo"></span>
+          <span v-html="raw0qlj"></span>
         </span>
         <span class="footer-gray-text22">Creative Tim</span>
         <span>.</span>
@@ -86,7 +86,7 @@ export default {
 
   data() {
     return {
-      rawgeyo: ' ',
+      raw0qlj: ' ',
     }
   },
 }
